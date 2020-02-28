@@ -8,6 +8,7 @@
       <mapping pattern="Test2_4" type="PLAIN_TEXT" />
       <mapping pattern="Test2_2" type="PLAIN_TEXT" />
       <mapping pattern="Test2_1" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
